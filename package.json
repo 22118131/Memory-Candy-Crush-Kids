@@ -1,0 +1,35 @@
+{
+  "name": "memory-candy-crush",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && cap sync",
+    "lint": "tsc --noEmit",
+    "preview": "vite preview",
+    "cap": "cap"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.3.4",
+    "@capacitor/core": "^8.3.4",
+    "@tailwindcss/vite": "^4.0.0",
+    "canvas-confetti": "^1.9.2",
+    "clsx": "^2.1.0",
+    "lucide-react": "^0.344.0",
+    "motion": "^12.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.3.4",
+    "@types/canvas-confetti": "^1.6.4",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  }
+}

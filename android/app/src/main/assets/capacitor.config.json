@@ -1,0 +1,6 @@
+{
+	"appId": "com.braincandyworld.kids",
+	"appName": "Brain Candy",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

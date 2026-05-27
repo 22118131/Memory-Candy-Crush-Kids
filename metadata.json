@@ -1,0 +1,6 @@
+{
+  "name": "Memory Candy Crush Kids",
+  "description": "A fun and educational Candy Crush style match-3 puzzle game focusing on improving memory, concentration, and brain skills for children. Includes multiple memory mini-games and progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
